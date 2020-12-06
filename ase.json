@@ -3,7 +3,7 @@
     "randomize" : "false",
     "admob_only" : "true",
     "fb_only" : "false",
-    "admob_banner_enable" : "true",
+    "admob_banner_enable" : "false",
     "admob_banner_intro_last_rect_enable" : "true",
     "admob_banner_rect_enable" : "true",
     "admob_inter_enable" : "true",
