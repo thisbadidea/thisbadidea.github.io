@@ -20,7 +20,7 @@
     "FACEBOOK_ADS_RECT_INTRO_LAST_PLACEMENT_ID": "404379180963531_404602094274573",
     "FACEBOOK_ADS_BANNER_PLACEMENT_ID": "404379180963531_404600727608043",
     "interstitial_step":"2",
-    "update_active" : "true",
+    "update_active" : "false",
     "updateTITLE" : "New Version",
     "updateMSG" : "Please Install NEW VERSION",
     "updatePACKAGENAME" : "com.fgg.fallguide.fgtips",
