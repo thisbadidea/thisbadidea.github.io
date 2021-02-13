@@ -5,7 +5,7 @@
     "fb_only" : "false",
     "admob_banner_enable" : "false",
     "admob_banner_intro_last_rect_enable" : "true",
-    "admob_banner_rect_enable" : "false",
+    "admob_banner_rect_enable" : "true",
     "admob_inter_enable" : "true",
     "ad_unit_inter": "ca-app-pub-3187927777485739/2539361218",
     "ad_unit_banner": "ca-app-pub-3187927777485739/4044014573",
