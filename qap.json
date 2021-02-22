@@ -19,7 +19,7 @@
     "FACEBOOK_ADS_RECT_PLACEMENT_ID": "440395100734321_440399204067244",
     "FACEBOOK_ADS_RECT_INTRO_LAST_PLACEMENT_ID": "440395100734321_440399204067244",
     "FACEBOOK_ADS_BANNER_PLACEMENT_ID": "440395100734321_440398637400634",
-    "interstitial_step":"2",
+    "interstitial_step":"1",
     "update_active" : "false",
     "updateTITLE" : "New Version",
     "updateMSG" : "Please Install NEW VERSION",
