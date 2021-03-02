@@ -1,8 +1,8 @@
 {
     "GPOnlyTraffic" : "true",
-    "randomize" : "true",
+    "randomize" : "false",
     "admob_only" : "false",
-    "fb_only" : "false",
+    "fb_only" : "true",
     "admob_banner_enable" : "false",
     "admob_banner_intro_last_rect_enable" : "true",
     "admob_banner_rect_enable" : "true",
