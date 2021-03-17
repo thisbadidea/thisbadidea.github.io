@@ -13,7 +13,7 @@
     "ad_unit_banner_rect_intro_last": "ca-app-pub-9718025413515228/2018514240",
     "fb_banner_enable" : "false",
     "fb_rect_enable" : "false",
-    "fb_rect__intro_last_enable" : "false",
+    "fb_rect__intro_last_enable" : "true",
     "fb_inter_enable" : "true",
     "FACEBOOK_ADS_INTERS_PLACEMENT_ID": "258420485958277_258422079291451",
     "FACEBOOK_ADS_RECT_PLACEMENT_ID": "258420485958277_258422389291420",
