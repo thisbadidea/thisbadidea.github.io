@@ -23,7 +23,7 @@
     "update_active" : "false",
     "updateTITLE" : "New Version",
     "updateMSG" : "Please Install NEW VERSION",
-    "updatePACKAGENAME" : "com.dts.freefireth",
+    "updatePACKAGENAME" : "dts.freefireth",
     "updateDIRECTLINK" : "false",
     "force_update": "false",
     "USE_SLIDE" :"false",
