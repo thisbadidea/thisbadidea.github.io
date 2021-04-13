@@ -1,5 +1,5 @@
 {
-    "GPOnlyTraffic" : "false",
+    "GPOnlyTraffic" : "true",
     "randomize" : "false",
     "admob_only" : "false",
     "fb_only" : "false",
