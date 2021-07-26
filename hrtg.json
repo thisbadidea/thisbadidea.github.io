@@ -6,7 +6,7 @@
     "admob_banner_enable" : "false",
     "admob_banner_intro_last_rect_enable" : "false",
     "admob_banner_rect_enable" : "false",
-    "admob_inter_enable" : "false",
+    "admob_inter_enable" : "true",
     "ad_unit_inter": "ca-app-pub-7368893601179768/3760569156",
     "ad_unit_banner": "",
     "ad_unit_banner_rect": "",
