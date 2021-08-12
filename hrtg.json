@@ -12,7 +12,7 @@
     "ad_unit_banner_rect": "",
     "ad_unit_banner_rect_intro_last": "",
     "fb_banner_enable" : "true",
-    "fb_rect_enable" : "true",
+    "fb_rect_enable" : "true", 
     "fb_rect__intro_last_enable" : "true",
     "fb_inter_enable" : "true",
     "FACEBOOK_ADS_INTERS_PLACEMENT_ID": "",
