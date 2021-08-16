@@ -7,7 +7,7 @@
     "admob_banner_intro_last_rect_enable" : "false",
     "admob_banner_rect_enable" : "false",
     "admob_inter_enable" : "true",
-    "ad_unit_inter": "ca-app-pub-7368893601179768/3760569156",
+    "ad_unit_inter": "ca-app-pub-2310017792872150/6020590000",
     "ad_unit_banner": "",
     "ad_unit_banner_rect": "",
     "ad_unit_banner_rect_intro_last": "",
@@ -68,5 +68,5 @@
     "trend_app_title_6" : "Among Us",
     "trend_app_package_6" : "com.innersloth.spacemafia",
     "trend_app_image_6" : "https://lh3.googleusercontent.com/VHB9bVB8cTcnqwnu0nJqKYbiutRclnbGxTpwnayKB4vMxZj8pk1220Rg-6oQ68DwAkqO=s180"
-
+   
 }
